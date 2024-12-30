@@ -1,1 +1,5 @@
+
 new file after deletions
+
+
+updating file to create conflict
