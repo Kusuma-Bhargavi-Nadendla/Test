@@ -1,5 +1,0 @@
-changing third file
-
-Change after second commit
-
-Change after staging for third commit
