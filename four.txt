@@ -1,5 +1,9 @@
 
 new file after deletions
 
+<<<<<<< HEAD
 
 updating file to create conflict
+=======
+updating from branch7
+>>>>>>> new-br7
